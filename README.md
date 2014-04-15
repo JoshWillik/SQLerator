@@ -8,7 +8,7 @@ Only designed to return stirngs.
 ##Installation
 
 1. throw files in a folder
-2. 'require_once( 'path/to/folder/SQL.php');`
+2. `require_once( 'path/to/folder/SQL.php');`
 3. ???
 4. Profit!
 
