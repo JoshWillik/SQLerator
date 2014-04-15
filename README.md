@@ -5,7 +5,14 @@ Only designed to return stirngs.
 
 *It is your responsibility to actually execute the returned SQL string*
 
-##code examples
+##Installation
+
+1. throw files in a folder
+2. 'require_once( 'path/to/folder/SQL.php');`
+3. ???
+4. Profit!
+
+##Code examples
 
 ```PHP
 SQL::select( "EMP_PK")
