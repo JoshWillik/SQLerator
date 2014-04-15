@@ -1,6 +1,9 @@
 #SQLerator
 
 Making statement preparation easier to build.
+Only designed to return stirngs.
+
+*It is your responsibility to actually execute the returned SQL string*
 
 ##code examples
 
